@@ -1,25 +1,25 @@
-# EPI-207-Assignment1
-Group Assignment 1 for EPIDEM 207 (Fall 2026) 
+# EPI-207-Projects
+Group Assignments for EPIDEM 207 - Reproducibility in Epidemiologic Research (Fall 2026) 
 
-*This file serves as a template for a README.md for a project.*
 
-*Copy-paste below the line and make edits to fit your own project.*
+## Assignment 1: Reproducing Published CHIS Findings
+We reproduced the findings from the paper "Soda Consumption and Hospital Admissions among Californian Adults with Asthma" (Cisneros et al., 2017)using California Health Interview Survey (CHIS) Public Use Files (PUFs) data from 2011 to 2012.
 
----------
+## Project Outputs
+After reading the paper, cleaning the data, and implementing the inclusion and exclusion criteria, we reproduced the following Tables:
 
-## Project title
-Project description: A little info about your project and/ or overview that explains **what** the project is about. You can also explain **why** the project exists. You can mention this is for coursework too. 
+- Table 1: Selected characteristics of adult asthmatics in the adult public use file og the 2011-2012 California Health Interview Survey(CHIS)
+- Table 2: Associations between consumption of soda and asthma-related overnight hospital admission among California adult asthmatics
 
-## Features
-What makes your project stand out?
-
-## Acknowledgments
-Give proper credit to resources you used in this project. This could be a link to any repo which inspired you to build this project, any blogposts, or links to people who contrbuted in this project. 
-
-## Anything else that seems useful
-
+## Original Paper Citation
+Cisneros R, Gonzalez M, Brown P, Schweizer D. Soda consumption and hospital admissions among Californian adults with asthma. J Asthma. 2017;54(4):371-375. doi:10.1080/02770903.2016.1218014)
 
 ## Created by
-* [@jyixzhou](https://github.com/jyixzhou)
+EPI 207 (Fall 2026) Group 1
+- Sofia Valenzuela
+- Sathvika Musuvathy
+- Rebekah Jung
+- Sukrity Ohja
 
-*E-MAIL/PHONE*
+*E-MAIL*
+Sofia Valenzuela: sofiavalenzuela@g.ucla.edu Sathvika Musuvathy: sathvikasm@g.ucla.edu Rebekah Jung: rebjung@ucla.edu Sukrity Ohja: sukrityojha@g.ucla.edu
