@@ -19,7 +19,13 @@ EPI 207 (Fall 2026) Group 1
 - Sofia Valenzuela
 - Sathvika Musuvathy
 - Rebekah Jung
-- Sukrity Ohja
+- Sukrity Ojha
 
 *E-MAIL*
 Sofia Valenzuela: sofiavalenzuela@g.ucla.edu Sathvika Musuvathy: sathvikasm@g.ucla.edu Rebekah Jung: rebjung@ucla.edu Sukrity Ohja: sukrityojha@g.ucla.edu
+
+## Assignment 2: Developing a research and analyzing the data
+We developed a research question that can be evaluated using CHIS PUFs data. We analyzed the data and wrote up the methods and results.
+
+## Assignment 3: Reproducing other group's findings using the same data
+We analyzed the CHIS data and replicate the tables and figures of the other group's study.
